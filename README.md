@@ -18,3 +18,9 @@ Menu User "Team Member":
 - Lihat Project (Read)
 - Lihat Tugas yang Diberikan
 - Keluar
+
+link Presentasi:
+https://www.canva.com/design/DAGfXl-PBtY/fSmMLRNF6f56_l6tf_cwOg/view?utm_content=DAGfXl-PBtY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc222fc1442
+
+link Flowchart:
+https://drive.google.com/file/d/10Mu4OZb6eUagj--eNGIbxu-wGKpSN5SH/view?usp=sharing
